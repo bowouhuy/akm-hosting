@@ -1,0 +1,17 @@
+{"menu": [
+    {"url":"dashboard", "name":"Dashboard", "slug":"dashboard", "icon":"feather icon-home"},
+    {"url":"","navheader":"Apps","icon":""},
+        {"url":"material", "name":"Materi", "icon":"feather icon-book"},
+        {"url":"question", "name":"Soal", "icon":"feather icon-check-square"},
+        {"url":"question_type", "name":"Jenis Soal", "icon":"feather icon-layers"},
+        {"url":"package", "name":"Paket Soal", "icon":"feather icon-package"},
+        {"url":"exam", "name":"Ujian", "icon":"feather icon-edit-1"},
+        {"url":"transaction", "name":"Transaksi", "icon":"feather icon-activity"},
+    {"url":"","navheader":"Manajemen","icon":""},
+        {"url":"participant", "name":"Peserta", "icon":"feather icon-users"},
+        {"url":"wallet", "name":"Wallet", "icon":"feather icon-credit-card"},
+    {"url":"","navheader":"Support","icon":""},
+        {"url":"https://pixinvent.com/demo/vuexy-html-bootstrap-admin-template/documentation/documentation-laravel.html", "name":"Documentation", "icon":"feather icon-folder", "i18n":"nav.documentation"}
+
+]}
+
